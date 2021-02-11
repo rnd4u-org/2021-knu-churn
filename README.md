@@ -7,3 +7,5 @@ https://nbviewer.jupyter.org/github/rnd4u-org/2021-knu-churn/blob/Muzychina/data
 https://nbviewer.jupyter.org/github/rnd4u-org/2021-knu-churn/blob/Muzychina/model_evaluation_Muzychina.ipynb
 
 https://nbviewer.jupyter.org/github/rnd4u-org/2021-knu-churn/blob/Muzychina/feature_selection_Muzychina.ipynb
+
+https://nbviewer.jupyter.org/github/rnd4u-org/2021-knu-churn/blob/Muzychina/churn_prediction_upgraded_Muzychina.ipynb
